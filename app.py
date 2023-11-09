@@ -200,5 +200,5 @@ with tab1:
   st.subheader(':blue[_Packages used:_]')
   st.write('Pandas, streamlit, sklearn, pickle')
       
-  st.subheader(':blue[_GitHub link:_]')
-  st.write('https://github.com/AJITHKANNAN/Copper-Modelling/tree/main/Copper%20Modelling')
+  st.subheader(':blue[GitHub link:]')
+  st.write('https://github.com/AJITHKANNAN/Copper-Modelling/')
